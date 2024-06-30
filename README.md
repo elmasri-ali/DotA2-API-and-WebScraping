@@ -19,6 +19,8 @@ This project focuses on analyzing DotA 2 match data to derive meaningful insight
 1. Clone the repository:
 2. Install the required dependencies:
 3. Set up your environment variables by renaming `.env.example` to `.env` and adding your API key.
+4. 4. Review the OpenDota API documentation to understand the JSON format and dictionaries used:
+- [OpenDota API Documentation](https://docs.opendota.com/)
 
 ## Milestones
 
